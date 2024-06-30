@@ -1,4 +1,4 @@
-# Fitness Project
+# Fitness Project For GYM
 
 Welcome to the Fitness Project! This is a comprehensive Windows Forms application developed using C#. The project is designed to provide an interactive and user-friendly interface for managing fitness-related activities, customer data, and training plans.
 
