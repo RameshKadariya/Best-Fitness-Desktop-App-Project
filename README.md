@@ -5,7 +5,7 @@
 Fitness Project
 
 ## Project Description
-The Fitness Project is a C# application designed to help manage and track fitness activities. The project includes various forms for managing customers, training plans, and user data.
+The Fitness Project is a C# application designed to help manage and track fitness activities. The project includes various forms for managing customers, training plans, and user data.Kindly download the zip file and use it accordingly.
 
 ## Project Structure
 - **fitnessProject.sln**: The solution file for the project.
